@@ -5,7 +5,7 @@
 - I have been studying technology since 2013, but I had already been interested in working in the field since my teenage years;
 - I have a degree in Computer Science;
 - I hold a technical diploma in Computer Networks;
-- I have been working in Process Automation for almost 7 years;
+- I have been working in Process Automation since 2018;
 - My first passion for programming came through Python;
 - I am currently trying to strengthen my technical side, as I want to build an increasingly strong knowledge base;
 - If you are curious about the area in which I work, feel free to create a connection with me on [LinkedIn](https://www.linkedin.com/in/vinicius-m-martins/) to talk about it;
