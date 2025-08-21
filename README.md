@@ -54,7 +54,7 @@
 
 ###
 
-##Some professional and academic curiosities about me:
+## Some professional and academic curiosities about me:
 
 - I have been studying technology since 2013, but I had already been interested in working in the field since my teenage years;
 - I have a degree in Computer Science;
