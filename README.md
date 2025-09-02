@@ -1,4 +1,5 @@
-<h2 align="left">EN - Hello! Welcome to my GitHub profile | PT - Olá! Sejam bem-vindos ao meu perfil do GitHub</h2>
+<h2 align="left">EN - Hello! Welcome to my GitHub profile</h2>
+<h2 align="left">PT - Olá! Sejam bem-vindos ao meu perfil do GitHub</h2>
 
 ###
 
