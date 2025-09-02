@@ -1,10 +1,4 @@
-<h2 align="left">Hello! Welcome to my GitHub profile</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniMMartins&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<h2 align="left">EN - Hello! Welcome to my GitHub profile | PT - Olá! Sejam bem-vindos ao meu perfil do GitHub</h2>
 
 ###
 
@@ -54,7 +48,7 @@
 
 ###
 
-### Some professional and academic curiosities about me:
+### EN - Some professional and academic curiosities about me:
 
 - I have been studying technology since 2013, but I had already been interested in working in the field since my teenage years;
 - I have a degree in Computer Science;
@@ -63,3 +57,13 @@
 - My first passion for programming came through Python;
 - I am currently trying to strengthen my technical side, as I want to build an increasingly strong knowledge base;
 - If you are curious about the area in which I work, feel free to create a connection with me on [LinkedIn](https://www.linkedin.com/in/vinicius-m-martins/) to talk about it;
+
+### PT - Algumas curiosidades profissionais e acadêmicas sobre mim:
+
+- Estudo tecnologia desde 2013, mas já tinha interesse em atuar na área desde a adolescência;
+- Sou graduado em Ciência da Computação;
+- Possuo diploma técnico em Redes de Computadores;
+- Trabalho com Automação de Processos desde 2018;
+- Minha primeira paixão por programação surgiu através do Python;
+- Atualmente, estou buscando fortalecer meu lado técnico, pois quero construir uma base de conhecimento cada vez mais sólida;
+- Se você tiver curiosidade sobre a área em que atuo, sinta-se à vontade para se conectar comigo no [LinkedIn](https://www.linkedin.com/in/vinicius-m-martins/) e conversar sobre o assunto.
