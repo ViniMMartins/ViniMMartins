@@ -2,8 +2,6 @@
 
 ## 👋 Hello! Welcome to my GitHub profile
 
----
-
 ### 📊 My Languages Graph
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniMMartins&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="300" alt="languages graph"/>
 
@@ -41,13 +39,13 @@
 
 ### 💡 Professional and Academic Curiosities
 
-- I have been studying technology since 2013, but my interest in the field started in my teenage years;  
-- I hold a **Bachelor’s degree in Computer Science**;  
-- I also hold a **technical diploma in Computer Networks**;  
-- I have been working in **Process Automation** since 2018;  
-- My first passion for programming came through **Python**;  
-- I am currently focused on **strengthening my technical side** to build an increasingly solid knowledge base;  
-- My future career goal is to **become a Software Engineer** in a global company, especially in areas related to automation, data, and cloud technologies;  
-- If you are curious about my work, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vinicius-m-martins/).  
+I have been studying technology since 2013, but my interest in the field started in my teenage years;  
+I hold a **Bachelor’s degree in Computer Science**;  
+I also hold a **technical diploma in Computer Networks**;  
+I have been working in **Process Automation** since 2018;  
+My first passion for programming came through **Python**;  
+I am currently focused on **strengthening my technical side** to build an increasingly solid knowledge base;  
+My future career goal is to **become a Software Engineer** in a global company, especially in areas related to automation, data, and cloud technologies;  
+If you are curious about my work, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vinicius-m-martins/).  
 
 </div>
