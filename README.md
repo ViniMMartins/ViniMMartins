@@ -2,7 +2,6 @@
 
 ## 👋 Hello! Welcome to my GitHub profile
 
-### 📊 My Languages Graph
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniMMartins&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="300" alt="languages graph"/>
 
 ---
