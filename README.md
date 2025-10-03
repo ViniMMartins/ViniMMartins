@@ -6,17 +6,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniMMartins&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="300" alt="languages graph"  />
 </div>
 
-###
+### 🛠️ Minha Stack
 
 <div align="center">
-
-## 🛠️ Minha Stack
-
----
 
 ### 🐍 Linguagens & Frameworks
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/> Python  
+  <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/> JavaScript  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/> HTML5  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/> CSS3  
