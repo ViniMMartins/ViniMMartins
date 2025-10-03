@@ -5,10 +5,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniMMartins&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="300" alt="languages graph"  />
 </div>
-
+---
 ### 🛠️ Minha Stack
-
-###
 
 #### 🐍 Linguagens & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -36,7 +34,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-###
+---
 
 ### Some professional and academic curiosities about me:
 
